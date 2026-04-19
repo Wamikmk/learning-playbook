@@ -6,7 +6,7 @@
 
 ## Why this exists
 
-You can read a thousand books on learning and still not know what to *do* Monday morning. This playbook closes that gap. It takes the principles you already accept — automaticity before understanding, mastery before advancement, prerequisites over confusion — and turns them into a step-by-step operating procedure you can run on any subject: a new mathematical topic, a programming language, a research area, a manual skill.
+You can read a thousand books on learning and still not know what to *do* Monday morning. This playbook closes that gap. It takes the principles you already accept  automaticity before understanding, mastery before advancement, prerequisites over confusion and turns them into a step-by-step operating procedure you can run on any subject: a new mathematical topic, a programming language, a research area, a manual skill.
 
 Use it the way a pilot uses a checklist: not because you can't fly without it, but because running the checklist every time is how you avoid the mistakes that cost you.
 
