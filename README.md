@@ -82,3 +82,4 @@ Keep a short `CHANGELOG.md` when you start making revisions.
 ## Related
 
 Companion repo: **project-playbook** — the equivalent protocol for building projects collaboratively with Claude. One is about *how to learn*; the other is about *how to build*. Use them together.
+**project-playbook** https://github.com/Wamikmk/project-playbook
